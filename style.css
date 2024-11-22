@@ -6,7 +6,7 @@ background-color: hsl(0, 0%, 100%);
 main{
     margin-left: auto;
     margin-right: auto;
-    border:   1px solid hsl(0, 0%, 12%);
+    box-shadow: #a5a9aacc 2px 4px 16px 3px;
     border-radius: 10px;
     font-size: 14px;
     font-family: "Inter", sans-serif;
