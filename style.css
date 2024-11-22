@@ -2,6 +2,9 @@
 body{
 background-image:url('fundoo.jpg');
     margin: 91px 5px;
+     background-size: cover; /* Faz a imagem cobrir todo o fundo */
+            background-repeat: no-repeat; /* Evita que a imagem se repita */
+            background-position: center; /* Centraliza a imagem */
 }
 main{
     margin-left: auto;
